@@ -1,1 +1,8 @@
 /* your code */
+tbody tr:nth-child(odd){
+	background-color:lightblue;
+}
+
+td{
+	padding:10px;
+}
